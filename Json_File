@@ -1,0 +1,19 @@
+{
+  "name":"viki",
+  
+  "id":"234",
+  
+  "nodeId":"012",
+  
+  "owner":[{"username":"viki123"},
+  
+            {"id":"5678"}],
+  
+  "permission":[{"push":"true"},
+  
+                {"pull":"true"}],
+                
+  "skills":["java","selenium","sql","api"]
+                
+              
+}
